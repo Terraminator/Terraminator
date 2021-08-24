@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I am Terraminator</h1> 
+# Hi there I am Terraminator. 
 - I am a Programmer/Hacker 
 - I am interested in everything todo with programming an IT-Security.  
 - I' m currently working on a Browser for Jusoft and learning c++!
