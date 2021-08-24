@@ -1,5 +1,4 @@
-# Hi there ![yee](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) I am Terraminator
-
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I am Terraminator</h1>
 - I am a Programmer/Hacker. 
 - I' m currently working on a Browser for Jusoft and learning c++!
 
