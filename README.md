@@ -1,4 +1,4 @@
-# Hi there https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif I am Terraminator
+# Hi there ![yee](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) I am Terraminator
 
 - I am a Programmer/Hacker. 
 - I' m currently working on a Browser for Jusoft and learning c++!
