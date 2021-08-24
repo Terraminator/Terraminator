@@ -3,6 +3,10 @@
 - I am a Programmer/Hacker. 
 - I' m currently working on a Browser for Jusoft and learning c++!
 
+###Github Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terraminator)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 #### Contact Me:
 
