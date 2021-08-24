@@ -5,7 +5,7 @@
 - I' m currently working on a Browser for Jusoft and learning c++!
 
 ## Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terraminator&show_private=true&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terraminator&count_private=true&show_icons=true&theme=radical)
 
 
 
