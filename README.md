@@ -1,5 +1,5 @@
 
-# Hi there I am Terraminator. 
+# Hi there👋 I am Terraminator. 
 - I am a Programmer/Hacker 
 - I am interested in everything todo with programming an IT-Security.  
 - I' m currently working on a Browser for Jusoft and learning c++!
