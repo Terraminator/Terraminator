@@ -1,14 +1,14 @@
-#### Hi there 👋 I am Terraminator
+# Hi there 👋 I am Terraminator
 
 - I am a Programmer/Hacker. 
 - I' m currently working on a Browser for Jusoft and learning c++!
 
-### Github Stats:
+## Github Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terraminator)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-#### Contact Me:
+## Contact Me:
 
 ### E-Mail
 erik1wilhelm@gmail.com
