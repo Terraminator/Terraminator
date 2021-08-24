@@ -1,11 +1,10 @@
 
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I am Terraminator</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">I am Terraminator</h1>. 
 - I am a Programmer/Hacker. 
 - I' m currently working on a Browser for Jusoft and learning c++!
 
 ## Github Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terraminator)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 ## Contact Me:
