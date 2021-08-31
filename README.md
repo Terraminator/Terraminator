@@ -6,7 +6,7 @@
 
 ## Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Terraminator&count_private=true&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Terraminator&langs_count=2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Terraminator&langs_count=2&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Terraminator&theme=radical&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats)
 
 
