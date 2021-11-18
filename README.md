@@ -1,6 +1,6 @@
 
 # Hi there👋 I am Terraminator. 
-- I am a Programmer/Hacker 
+- I am a Programmer/Pentester 
 - I am interested in everything todo with programming and IT-Security.  
 - I' m currently working on a Proxy Server and learning c++!
 
