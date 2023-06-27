@@ -1,8 +1,8 @@
 
 # Hi there👋 I am Terraminator. 
 - I am a Programmer/Pentester 
-- I am interested in everything todo with programming and IT-Security.  
-- I' m currently working on a wallet with chain-tec!
+- I am interested in everything todo with Programming and IT-Security.  
+- I am currently doing some ctf's and finish school.
 
 ## Github Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TERRAMINATOR&count_private=true&show_icons=true&theme=radical)
