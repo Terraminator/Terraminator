@@ -17,7 +17,7 @@
 ## Contact Me:
 
 ### E-Mail
-erik1wilhelm@gmail.com
+terraminator@protonmail.com
 
 ### Discord
 ![Discord Shield](https://discord.c99.nl/widget/theme-4/583579616749420545.png?style=shield)
