@@ -1,6 +1,6 @@
 
 # Hi there👋 I am Terraminator. 
-- I am a Programmer/Pentester 
+- I am a Programmer/CTF Player 
 - I am interested in everything todo with Programming and IT-Security.  
 - I am currently doing some ctf's and finish school.
 
